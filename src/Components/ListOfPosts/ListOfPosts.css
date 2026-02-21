@@ -1,0 +1,8 @@
+.listOfPosts{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    gap: 15px;
+
+    margin-top: 20px;
+}
